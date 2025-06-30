@@ -1,2 +1,1 @@
-hello, Git
- This is my frist git project
+This is the main branch description for the project.
